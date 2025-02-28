@@ -6,7 +6,7 @@ Nome: Arthur Melo
 Matricula: 1545609
 
 ## Tela de inspeção com navegador
-
+![alt text](image.png)>
 
 ## Tela de projeto no Replit
-
+![alt text](<atividade1/Captura de tela 2025-02-27 203713.png>)>
